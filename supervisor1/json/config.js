@@ -1,3 +1,3 @@
 module.exports = {
-  name:'xg9'
+  name:'xg10'
 };
